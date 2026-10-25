@@ -20,5 +20,52 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "명학회관": {
+      "style": "tan",
+      "wall": "#e5dcc2",
+      "glass": "#6b7f8c",
+      "frame": "#c9bfa6"
+    },
+    "의과대 2호관": {
+      "style": "stone",
+      "wall": "#e9e1c8",
+      "glass": "#5d6e78",
+      "frame": "#d8cfb5",
+      "hip": true,
+      "roof": "#e09a6a"
+    },
+    "의과대 3호관": {
+      "style": "stone",
+      "wall": "#d8d6cf",
+      "glass": "#5f6f7c",
+      "frame": "#bfbdb6"
+    },
+    "의생명연구지원센터": {
+      "style": "glass",
+      "wall": "#a9aeb4",
+      "glass": "#6b7f98",
+      "frame": "#8c939b"
+    },
+    "간호대": {
+      "style": "brick",
+      "wall": "#a65a3e",
+      "glass": "#4c5c66",
+      "frame": "#d6d0c4"
+    },
+    "덕재홀": {
+      "style": "tan",
+      "wall": "#d8c6a2",
+      "glass": "#5b7a8c",
+      "frame": "#b8ad94"
+    },
+    "의생명연구원 동물사": {
+      "style": "stone",
+      "wall": "#e1ddcc",
+      "glass": "#5c6c74",
+      "frame": "#c8c4b4"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
